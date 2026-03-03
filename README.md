@@ -41,7 +41,7 @@ Data Analytics with focus on **e-commerce, supply chain, and operational analyti
 - 📧 Email: parthpt.03@gmail.com
 - 📍 Location: Ahmedabad, Gujarat, India
 - 🎯 Status: Actively seeking Data Analyst opportunities
-- 
+   
 ---
 
 💡 Open to opportunities in: E-commerce Analytics | Supply Chain Optimization | Operations Analytics | Manufacturing Intelligence

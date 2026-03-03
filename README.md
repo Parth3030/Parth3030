@@ -2,7 +2,7 @@
 
 ## 📊 Data Analyst | Transforming Data into Actionable Business Insights
 
-Mechanical Engineer transitioning to Data Analytics with focus on **e-commerce, supply chain, and operational analytics**.
+Data Analytics with focus on **e-commerce, supply chain, and operational analytics**.
 
 ### 🚀 Recent Project Highlights
 

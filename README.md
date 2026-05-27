@@ -50,7 +50,9 @@ e-commerce retention and supply chain optimization.
 
 ### 📈 GitHub Stats
 
-![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parth3030&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=Parth3030&show_icons=true&theme=dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=Parth3030&show_icons=true&theme=dark&hide_border=true)" alt="Parth's GitHub Stats" />
+</p>
 
 ### 📫 Let's Connect
 
